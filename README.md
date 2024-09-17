@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition
 
-This repository contains various machine learning models implemented for recognizing handwritten digits. The models range from traditional machine learning algorithms to more advanced deep learning approaches. The project is built using Python and Jupyter notebooks.
+This repository contains various machine learning models implemented for recognizing handwritten digits. The models range from traditional machine learning algorithms to more advanced deep learning approaches. The project is built using Python, Colab and Jupyter notebooks.
 
 ## Models Implemented
 
@@ -54,4 +54,4 @@ Each model is evaluated based on their accuracy. The CNN model, being a deep lea
 This project was built as part of the academic internship during the 4th semester of B.Tech in Computer Science and Engineering at Jorhat Engineering College.
 
 ## License
-This project is licensed under 
+This project is licensed under the [Apache License Version 2.0](./LICENSE).
