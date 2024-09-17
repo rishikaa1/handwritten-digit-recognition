@@ -39,7 +39,7 @@ The dependencies can be installed using the provided `requirements.txt` file.
 ## Model Evaluation
 Each model is evaluated based on their accuracy. The CNN model, being a deep learning approach, typically outperforms the traditional models, especially for complex digit patterns.
 
-### Accuracies (rounded off to 2 digits)
+## Accuracies (rounded off to 2 digits)
 - Logistic Regression: 91.45%
 - Linear SVM: 92.00%
 - RBF Kernel SVM: 96.57%
